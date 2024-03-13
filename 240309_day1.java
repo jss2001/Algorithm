@@ -1,5 +1,6 @@
-# 프로그래머스 2024 KAKAO WINTER INTERNSHIP 가장 많이 받은 선물
-
+//프로그래머스_2024 KAKAO WINTER INTERNSHIP
+//가장 많이 받은 선물
+//문제 : https://school.programmers.co.kr/learn/courses/30/lessons/258712
 
 import java.util.*;
 class Solution {
