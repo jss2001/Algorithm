@@ -1,4 +1,6 @@
-#프로그래머스_위클리챌린지_부족한 금액 계산하기 
+//프로그래머스_위클리챌린지
+//부족한 금액 계산하기 
+//문제 : https://school.programmers.co.kr/learn/courses/30/lessons/82612    
 
 class Solution {
     public long solution(int price, int money, int count) {
