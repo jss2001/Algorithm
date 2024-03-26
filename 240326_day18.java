@@ -10,12 +10,13 @@ public class Main {
         int inputMinute = scanner.nextInt();
         
         double correctMinute = 0;
-        
+
+        //분침이 30분을 가리키는 경우
         if (inputMinute >= 30) {
             correctMinute += 15;
             inputMinute -= 30;
             correctMinute += inputMinute * 1.5;
-        } else {
+        } else { //분침 30분 미만인 경우
             correctMinute = inputMinute / 2.0; //2로 할 경우 소수점이하 값이 버려져서 틀림
         }
         
