@@ -16,7 +16,7 @@ public class Main {
             inputMinute -= 30;
             correctMinute += inputMinute * 1.5;
         } else {
-            correctMinute = inputMinute / 2.0;
+            correctMinute = inputMinute / 2;
         }
         
         System.out.println(correctMinute);
