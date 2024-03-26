@@ -1,4 +1,5 @@
-// 문제 : https://www.acmicpc.net/problem/31561 시계탑
+// 백준_2024 상반기 전남대학교 PIMM 알고리즘 파티_시계탑
+// 문제 : https://www.acmicpc.net/problem/31561
 
 import java.util.Scanner;
 
